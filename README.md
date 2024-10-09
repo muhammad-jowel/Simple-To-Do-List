@@ -45,7 +45,3 @@ Feel free to contribute to this project by submitting a pull request or creating
 ---
 
 > Developed by [Jowel](https://github.com/muhammad-jowel)
-
----
-
-Let me know if this works for you!
